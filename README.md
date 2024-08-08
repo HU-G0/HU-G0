@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Hugo disa
--  👀 I’m interested : nos estudos
+-  👀 I’m interested : Nos meus estudos
 - 🌱 I’m currently learning: Tecnoligia
 - 💞️ I’m looking to collaborate : Nos estudos do dia dia
 - 📫 How to reach me: Email ou numero de telefone
-- 😄 Pronouns: ...
+- 😄 Pronouns: .............
 - ⚡ Fun fact: Não sei
 - 
 
