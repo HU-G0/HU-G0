@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Hugo disa
 -  👀 I’m interested : nos estudos
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning: Tecnoligia
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email ou numero de telefone
 - 😄 Pronouns: ...
-- ⚡ Fun fact: não sei
+- ⚡ Fun fact: Não sei
 - 
 
 <!---
